@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62f66eb1-072e-4061-8f38-2e6443907b9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iDn6AfaNQO5Dm8r9FNJMYnfIpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Inceptor2020-1\PhpstormProjects\markProject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Inceptor2020-1\PhpstormProjects\markProject\img" />
+      <recent name="C:\Users\Inceptor2020-1\PhpstormProjects\markProject\bootstrap\js" />
+      <recent name="C:\Users\Inceptor2020-1\PhpstormProjects\markProject" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62f66eb1-072e-4061-8f38-2e6443907b9e" name="Default Changelist" comment="" />
+      <created>1601450867131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601450867131</updated>
+      <workItem from="1601450885763" duration="496000" />
+      <workItem from="1601451925078" duration="1464000" />
+      <workItem from="1601453710313" duration="1633000" />
+      <workItem from="1601455549045" duration="1784000" />
+      <workItem from="1601457481894" duration="1730000" />
+      <workItem from="1601459378500" duration="814000" />
+      <workItem from="1601537521679" duration="1527000" />
+      <workItem from="1601539408817" duration="1697000" />
+      <workItem from="1601541278397" duration="1781000" />
+      <workItem from="1601543225664" duration="1882000" />
+      <workItem from="1601545468103" duration="732000" />
+      <workItem from="1601623714389" duration="1602000" />
+      <workItem from="1601625546274" duration="1708000" />
+      <workItem from="1601627382044" duration="784000" />
+      <workItem from="1601629384910" duration="1594000" />
+      <workItem from="1601631673651" duration="1369000" />
+      <workItem from="1601710246709" duration="690000" />
+      <workItem from="1601712296933" duration="1715000" />
+      <workItem from="1601714270454" duration="1722000" />
+      <workItem from="1601716105937" duration="1610000" />
+      <workItem from="1601718135643" duration="1685000" />
+      <workItem from="1601878594096" duration="1691000" />
+      <workItem from="1601880447521" duration="138000" />
+      <workItem from="1601880686293" duration="1712000" />
+      <workItem from="1601882569104" duration="1713000" />
+      <workItem from="1601884421449" duration="1783000" />
+      <workItem from="1601886472982" duration="1706000" />
+      <workItem from="1601888453952" duration="1690000" />
+      <workItem from="1601890293646" duration="1716000" />
+      <workItem from="1601892124520" duration="1688000" />
+      <workItem from="1601893979627" duration="1627000" />
+      <workItem from="1601895822595" duration="788000" />
+      <workItem from="1601967326338" duration="1636000" />
+      <workItem from="1601969250410" duration="1709000" />
+      <workItem from="1601971092998" duration="1731000" />
+      <workItem from="1601972908271" duration="1765000" />
+      <workItem from="1601974792722" duration="1717000" />
+      <workItem from="1601976682088" duration="1699000" />
+      <workItem from="1602058355759" duration="760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601974190223">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1601974190223" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1601715424337">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1280.984@0.0.1280.984" timestamp="1601715424337" />
+    <state x="361" y="233" width="540" height="524" key="StructurePopup" timestamp="1601970718543">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="361" y="233" width="540" height="524" key="StructurePopup/0.0.1280.984@0.0.1280.984" timestamp="1601970718543" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1601972447736">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1601972447736" />
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1601884817130">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1601884817130" />
+  </component>
+</project>
